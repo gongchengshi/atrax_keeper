@@ -1,0 +1,11 @@
+enter the pattern for the domain you want to crawl
+
+Tool will get all of the domains from google that match that pattern
+
+Select which domains you don't want to include in the crawl
+
+Select which paths you don't want to include in the crawl
+
+give the crawl a name
+
+
